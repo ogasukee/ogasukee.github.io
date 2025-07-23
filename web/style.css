@@ -1,0 +1,128 @@
+header{
+    background-color:rgb(81, 75, 71);
+    color: #FFFFFF;
+    border-right: solid #72706e 6px;
+    border-bottom: solid #696867 6px;
+    padding: 10px;
+}
+body mid{
+    display: flex;
+     background-color: #d3e5d8;
+     
+}
+body{
+    height: stretch;
+}
+h1{
+    font-size: 200%;
+    padding-left: 40px;
+}
+body mid sidebar {
+    background-color: #AAAAAA;
+    padding-right: 10px;
+    border-radius: 4px;
+    padding-bottom: 20px;
+    width: 150px;
+    border-right: solid #888888 3px;
+}
+body mid sidebar li{
+    background-color: #CCCCCC;
+    border-right: solid #888888 3px;
+    border-bottom: solid #888888 3px;
+    
+    border-left: solid #eeeeee 4px;
+    border-top: solid #eeeeee 4px;
+    padding: 4px;
+    padding-right: 20px;
+    border-radius: 10px;
+    list-style: none;
+}
+body mid main{
+    padding-left: 10px;
+    padding-bottom: 70px;
+     height:100%;
+     padding-top: 20px;
+     width: 1000px;
+
+}
+body mid main div p{
+     font-size: 130%;
+}
+body mid main div a{
+     font-size: 130%;
+}
+
+footer{
+     background-color: #738d9d;
+    padding: 20px;
+    border-top: dotted 4px #38454d;
+
+}
+footer a{
+     
+     font-size: 120%;
+}
+.midasi{
+    display: flex;
+    height: stretch;
+    padding-bottom: 20px;
+}
+img{
+    border-right: solid #00691e 4px;
+    border-bottom: solid #00691e 4px;
+    background-color: #f6fff8;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+p{
+    padding-left: 20px;
+    padding-right: 5px;
+    border-radius: 5px;
+
+}
+dl{
+    padding-left: 20px;
+    padding-right: 5px;
+    border-radius: 5px;
+    font-size: 130%;
+}
+h2{
+    border-left: solid #01b935 6px;
+    
+}
+.pan{
+    display: flex; 
+
+}
+.pan a{
+    font-size: 100%;
+    padding: 5px;
+}
+.pan{
+    border-bottom: solid #01b935 3px;
+    padding-left: 20px;
+}
+td{
+    border:solid #00691e 1px;
+    padding: 3px;
+    font-size: 120%;
+    border-radius: 10px;
+}
+table{
+    border:solid #00691e 3px;
+    border-radius: 10px;
+}
+p{
+    font-size: 130%;
+}
+li{
+    list-style: none;
+    padding-left: 20px;
+}
+main div{
+    padding-bottom: 20px;
+}
+main a{
+     font-size: 130%;
+}
