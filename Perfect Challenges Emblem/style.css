@@ -1,0 +1,14 @@
+
+body{
+    background-color: rgb(3, 3, 19);
+    color: aliceblue;
+}
+a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 120%;
+}
+
+a:hover {
+  text-decoration: underline;
+}
